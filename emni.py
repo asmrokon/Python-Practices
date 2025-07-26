@@ -1,0 +1,1 @@
+print(f"{input("Name: ").strip().title()} is from {input("House: ").strip().title()}")

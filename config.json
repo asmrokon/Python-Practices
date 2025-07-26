@@ -1,0 +1,17 @@
+{
+  "message_prefix": ">>> ",
+  "min_delay": 2,
+  "max_delay": 5,
+  "initial_delay": 2,
+  "max_messages": 100,
+  "avoid_repeats": true,
+  "log_messages": true,
+  "test_mode": "flood",
+  "burst_count": 5,
+  "burst_delay": 0.1,
+  "flood_rate": 0.5,
+  "pattern_repeat": 3,
+  "similar_message_chance": 0.3,
+  "caps_chance": 0.2,
+  "spam_words_chance": 0.1
+}
